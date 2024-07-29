@@ -31,8 +31,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/gibbrelin/encryption app.git
-cd encryption app
+git clone https://github.com/gibbrelin/encryption-app.git
+cd encryption-app
 Install dependencies:
 
 bash
