@@ -31,18 +31,19 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/gibbrelin/encryption-app.git
+git clone https://github.com/gibbrelin/GMC-PROJECT.git
 cd encryption-app
-Install dependencies:
 
+Install dependencies:
 bash
 Copy code
 npm install
-Run the application:
 
+Run the application:
 bash
 Copy code
 npm start
+
 Open in browser:
 Navigate to http://localhost:3000 in your web browser.
 
