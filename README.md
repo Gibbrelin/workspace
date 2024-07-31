@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/gibbrelin/GMC-PROJECT.git
+git clone https://github.com/gibbrelin/workspace.git
 cd encryption-app
 
 Install dependencies:
