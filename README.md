@@ -50,7 +50,7 @@ Navigate to http://localhost:3000 in your web browser.
 
 # Usage
 
-Encrypting a Message:
+# Encrypting a Message:
 
 . Enter your message in the text area.
 
@@ -58,7 +58,7 @@ Encrypting a Message:
 
 The encrypted message will be displayed in the output field.
 
-Decrypting a Message:
+# Decrypting a Message:
 
 . Enter the encrypted message and AES key.
 
