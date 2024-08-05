@@ -66,15 +66,15 @@ The encrypted message will be displayed in the output field.
 
 The decrypted message will be displayed in the output field.
 
-#Technology Stack
+# Technology Stack
 
-Frontend:
+# Frontend:
 
 1. HTML
 2. CSS
 3. JavaScript
 
-Backend:
+# Backend:
 
 1. Node.js
 2. Express
