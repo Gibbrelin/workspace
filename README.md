@@ -1,8 +1,8 @@
-#Encryption & Decryption App
+# ENCRYPTION & DECRYPTION APP
 
 A simple web application for encrypting and decrypting messages using RSA and AES encryption algorithms.
 
-#Table of Contents
+# Table of Contents
 
 . Features
 
@@ -30,19 +30,19 @@ A simple web application for encrypting and decrypting messages using RSA and AE
 
 Step 1. Clone the repository:
 
-    bash git clone https://github.com/gibbrelin/workspace.git
+     git clone https://github.com/gibbrelin/workspace.git
 
  Step 2. open the encryption directory on the code editor terminal using
  
-    bash cd encryption-app
+     cd encryption-app
 
 Step 3. Install dependencies:
 
-    bash npm install
+     npm install
 
 step 4. Run the application:
 
-    bash npm start
+     npm start
 
 Step 5. Open in browser:
 
@@ -52,13 +52,18 @@ Navigate to http://localhost:3000 in your web browser.
 
 Encrypting a Message:
 
-Enter your message in the text area.
-Click the "Encrypt" button.
+. Enter your message in the text area.
+
+. Click the "Encrypt" button.
+
 The encrypted message will be displayed in the output field.
+
 Decrypting a Message:
 
-Enter the encrypted message and AES key.
-Click the "Decrypt" button.
+. Enter the encrypted message and AES key.
+
+. Click the "Decrypt" button.
+
 The decrypted message will be displayed in the output field.
 
 #Technology Stack
