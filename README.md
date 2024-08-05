@@ -1,53 +1,54 @@
-Encryption & Decryption App
+#Encryption & Decryption App
+
 A simple web application for encrypting and decrypting messages using RSA and AES encryption algorithms.
 
+#Table of Contents
 
-Table of Contents
+. Features
 
-Features
+. Demo
 
-Demo
+. Installation
 
-Installation
+. Usage
 
-Usage
+. Technology Stack
 
-Technology Stack
+. Contributing
 
+# Features
 
-Contributing
+. AES Encryption: Symmetric encryption for data security.
 
-Features
-AES Encryption: Symmetric encryption for data security.
-RSA Encryption: Asymmetric encryption for secure key exchange.
-Frontend: User-friendly interface for encryption and decryption.
-Backend: API endpoints for processing encryption and decryption requests.
-Demo
-Link to Live Demo (Add link to live demo if available)
+. RSA Encryption: Asymmetric encryption for secure key exchange.
 
-Installation
+. Frontend: User-friendly interface for encryption and decryption.
 
-Clone the repository:
+. Backend: API endpoints for processing encryption and decryption requests.
 
-bash
-Copy code
-git clone https://github.com/gibbrelin/workspace.git
-cd encryption-app
+# Installation
 
-Install dependencies:
-bash
-Copy code
-npm install
+Step 1. Clone the repository:
 
-Run the application:
-bash
-Copy code
-npm start
+    bash git clone https://github.com/gibbrelin/workspace.git
 
-Open in browser:
+ Step 2. open the encryption directory on the code editor terminal using
+ 
+    bash cd encryption-app
+
+Step 3. Install dependencies:
+
+    bash npm install
+
+step 4. Run the application:
+
+    bash npm start
+
+Step 5. Open in browser:
+
 Navigate to http://localhost:3000 in your web browser.
 
-Usage
+# Usage
 
 Encrypting a Message:
 
@@ -59,23 +60,33 @@ Decrypting a Message:
 Enter the encrypted message and AES key.
 Click the "Decrypt" button.
 The decrypted message will be displayed in the output field.
-Technology Stack
+
+#Technology Stack
+
 Frontend:
 
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
+
 Backend:
 
-Node.js
-Express
-Crypto module for encryption
-Contributing
+1. Node.js
+2. Express
+3. Crypto module for encryption
+
+# Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
-Steps to Contribute
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+# Steps to Contribute
+
+Step 1. Fork the repository.
+
+Step 2. Create a new branch (git checkout -b feature-branch).
+
+step 3. Make your changes and commit them (git commit -m 'Add new feature').
+
+step 4. Push to the branch (git push origin feature-branch).
+
+Step 5. Open a pull request.
